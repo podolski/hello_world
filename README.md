@@ -1,4 +1,4 @@
-hello_world
+Hello_world
 ===========
 
 First repository, testing stuff out!
